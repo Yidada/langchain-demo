@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "@langchain/anthropic": "^1.0.0",
+    "@langchain/core": "^1.0.1",
+    "@langchain/openai": "^1.0.0",
+    "langchain": "^1.0.1",
+    "zod": "^4.1.12"
+  },
+  "name": "langchain-demo",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  }
+}
