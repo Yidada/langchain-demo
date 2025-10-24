@@ -7,7 +7,7 @@
     "zod": "^4.1.12"
   },
   "name": "langchain-demo",
-  "module": "index.ts",
+  "module": "src/index.ts",
   "type": "module",
   "private": true,
   "devDependencies": {
